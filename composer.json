@@ -1,0 +1,10 @@
+{
+    "name": "admin/hello-world",
+    "authors": [
+        {
+            "name": "yyueshui",
+            "email": "18676756298@163.com"
+        }
+    ],
+    "require": {}
+}
